@@ -15,7 +15,7 @@ import success from '@/page/success'
 Vue.use(Router)
 
 export default new Router({
-  //mode: 'history',
+  mode: 'history',
     routes: [
       // 选择机具类型
       {
